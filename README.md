@@ -28,7 +28,7 @@ Estruturado projeto:
         - Arquivo principal(index.js)
     - arquivo index.html
   
- Após rodár o webpack(script npm definido no package.json: "build") teremos a pasta dist
+ Após rodar o webpack(script npm definido no package.json: "build") teremos a pasta dist
     - 
 
 
