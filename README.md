@@ -29,7 +29,10 @@ Estruturado projeto:
     - arquivo index.html
   
  Após rodar o webpack(script npm definido no package.json: "build") teremos a pasta dist
-    - 
+  - Um arquivo index.html
+  - Um arquivo main.js
+  - Um arquivo de imagem com nome wp.png
+  - E um arquivo de estilo chamado styles.css 
 
 
 
